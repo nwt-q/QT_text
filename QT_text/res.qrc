@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/50.jpg</file>
+        <file>res/gdygtb (4).ico</file>
+        <file>res/gdygtb (5).ico</file>
+        <file>res/xnyxytb (1).ico</file>
+        <file>res/Computer Association.ico</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,72 @@
+<mxfile host="app.diagrams.net" modified="2024-09-21T06:57:48.529Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" etag="RK69v6DMQRLRLrkvZJLw" version="24.6.2" type="device">
+  <diagram name="第 1 页" id="bfPJefZjfLWwsBcppBWf">
+    <mxGraphModel dx="944" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UIp_k_c8Ka5l7opapitt-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UIp_k_c8Ka5l7opapitt-1" target="UIp_k_c8Ka5l7opapitt-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UIp_k_c8Ka5l7opapitt-1" value="启动安装程序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UIp_k_c8Ka5l7opapitt-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UIp_k_c8Ka5l7opapitt-3" target="UIp_k_c8Ka5l7opapitt-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UIp_k_c8Ka5l7opapitt-3" value="直接编写" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UIp_k_c8Ka5l7opapitt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UIp_k_c8Ka5l7opapitt-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UIp_k_c8Ka5l7opapitt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UIp_k_c8Ka5l7opapitt-6" target="UIp_k_c8Ka5l7opapitt-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UIp_k_c8Ka5l7opapitt-6" value="保存/删除" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UIp_k_c8Ka5l7opapitt-9" value="保存在特定位置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UIp_k_c8Ka5l7opapitt-10" value="移除文档" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UIp_k_c8Ka5l7opapitt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UIp_k_c8Ka5l7opapitt-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="664.1666666666667" y="399" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UIp_k_c8Ka5l7opapitt-12" value="打开文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="604" y="279" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UIp_k_c8Ka5l7opapitt-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UIp_k_c8Ka5l7opapitt-14" target="UIp_k_c8Ka5l7opapitt-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UIp_k_c8Ka5l7opapitt-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UIp_k_c8Ka5l7opapitt-14" target="UIp_k_c8Ka5l7opapitt-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UIp_k_c8Ka5l7opapitt-14" value="写入文档" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="604" y="399" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UIp_k_c8Ka5l7opapitt-15" value="更新保存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="604" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UIp_k_c8Ka5l7opapitt-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="UIp_k_c8Ka5l7opapitt-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="210" as="sourcePoint" />
+            <mxPoint x="670" y="309.9999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="230" />
+              <mxPoint x="670" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UIp_k_c8Ka5l7opapitt-24" value="弹窗提醒保存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
