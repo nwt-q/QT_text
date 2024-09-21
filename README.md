@@ -1,6 +1,6 @@
 
 
-![Build Notepad Next - passing (github.com)](https://github.com/dail8859/NotepadNext/workflows/Build Notepad Next/badge.svg)
+![Build Notepad Next - passing (github.com)](https://github.com/dail8859/NotepadNext/workflows/BuildNotepadNext/badge.svg)
 
 
 
