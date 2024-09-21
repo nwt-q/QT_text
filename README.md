@@ -1,6 +1,7 @@
 
 
-![Build Notepad Next - passing (github.com)](https://github.com/dail8859/NotepadNext/workflows/BuildNotepadNext/badge.svg)
+![image](https://github.com/user-attachments/assets/9e280d1b-817d-41e5-802f-cd052e56c932)
+
 
 
 
